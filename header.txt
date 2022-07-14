@@ -1,3 +1,5 @@
 Some text for header, first edition
 Add text for confrict,thride edition
 New Changes, in masters
+Add some text more, second edition
+f0fb8f9 (add footer and change header)
